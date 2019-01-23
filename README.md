@@ -4,7 +4,7 @@
 **FRENCH**
 
 - Eman on Community
-- [Julianna on Inclusive Design](https://docs.google.com/presentation/d/1Fe7UP0NJwT3bBBRmCDuAPvt3qWtmCyhWlXufw5Q3K0/edit#slide=id.p1)
+- [Julianna on Inclusive Design](https://docs.google.com/presentation/d/1Fe7UP0NJw-T3bBBRmCDuAPvt3qWtmCyhWlXufw5Q3K0/edit#slide=id.p1)
 - [Sam on Service Design](https://docs.google.com/presentation/d/1P-boBMPI96zNDcXfN-cpuPu6cn0-YypmtNGRYr-nM34/edit#slide=id.p3)
 - Nick on Interaction
 - [Zak on Content](https://docs.google.com/presentation/d/1XvnosJ1_fCHFnQ4Q8tVRjRN3-KcdNAvX3tdOAUHenx8/edit#slide=id.p)
