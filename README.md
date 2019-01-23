@@ -18,7 +18,7 @@
 
 - Eman on Community
 - [Julianna on Inclusive Design](https://docs.google.com/presentation/d/1rI8uP8S3K40PskKw3MjD3iGeBIQFqZBiD1K--u0wcUs/edit#slide=id.g4c929f8f34_0_110)
-- [Sam on Service Design](https://docs.google.com/presentation/d/1GR1E5KrBx8j4dPa19yYYijc_efWfytRv3lzea1KCoA/edit#slide=id.g4d98ec72dd_0_18)
+- [Sam on Service Design](https://docs.google.com/presentation/d/1GR1E5KrBx8j4dPa19yYYij-c_efWfytRv3lzea1KCoA/edit#slide=id.g4d4fa0cc9c_0_0)
 - [Michelle on UX](https://docs.google.com/presentation/d/1EjMu2tOaZrA-EzHSiKxvvbnMUiviZJYBZ_fn_VLeMNM/edit#slide=id.p)
 - [Nick on Interaction](https://docs.google.com/presentation/d/1rQOCgRoiGdJuhWmOw1cgw7clO3C-Emrfcy_j3clkmeQ/edit#slide=id.p1)
 - [Zak on Content:](https://docs.google.com/presentation/d/1h2qWlljRISidTJTWpmjGRvZM6epXpAs4bebuvvFPhMA/edit#slide=id.p)
