@@ -6,7 +6,7 @@
 - Eman: Community 
 - [Julianna: La conception inclusive](https://docs.google.com/presentation/d/1Fe7UP0NJw-T3bBBRmCDuAPvt3qWtmCyhWlXufw5Q3K0/edit#slide=id.p1)
 - [Sam: Conception de services](https://docs.google.com/presentation/d/1P-boBMPI96zNDcXfN-cpuPu6cn0-YypmtNGRYr-nM34/edit#slide=id.p1)
-- [Nick: Interaction design](https://docs.google.com/presentation/d/1kq_QNklT4DKtnK38HY98KQlyJ_Pb9Xp8ndtW-LCDC4k/edit?usp=sharing)
+- [Nick: Interaction design]:(https://docs.google.com/presentation/d/1kq_QNklT4DKtnK38HY98KQlyJ_Pb9Xp8ndtW-LCDC4k/edit?usp=sharing)
 - [Zak: Conception du contenu](https://docs.google.com/presentation/d/1XvnosJ1_fCHFnQ4Q8tVRjRN3-KcdNAvX3tdOAUHenx8/edit#slide=id.p1)
 - [Nick: Compliance API]:(https://docs.google.com/presentation/d/17KV0VOX2OMeplp179rdFAAq3EOcFAA4hJ0FfofoMU6M/edit?usp=sharing)
 - [Sam: Conception de services + Découverte](https://docs.google.com/presentation/d/1jX6UaBSoA8zS3Ph1GYkUBUhT1P_F2d5T0fWEbh2vwwQ/edit#slide=id.p1)
